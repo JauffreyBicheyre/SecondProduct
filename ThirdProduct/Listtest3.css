@@ -1,0 +1,27 @@
+.Référence{
+    float: 5;
+    text-align: inline-block;
+}
+.Déplacement_FS_111{
+    float: left;
+    padding: 60px;
+    margin-left: 86px;
+}
+
+#milieu{
+    float: center;
+}
+
+.prix{
+    float: right;
+}
+.text-center{
+    text-align: center;
+    background: rgb(0, 110, 255);
+    margin: 50px;
+    padding: 60px;
+    position: relative;
+}
+body{
+    background:greenyellow;
+}
